@@ -1,0 +1,7 @@
+{
+  "name": "Ignite: The Fire Battle Treasure Hunt",
+  "description": "A high-energy, fire-themed college treasure hunt application featuring QR progression, live leaderboards, and team-based competition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
